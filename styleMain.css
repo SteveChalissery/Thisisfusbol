@@ -1,0 +1,97 @@
+h3{
+font-family: juventus;
+
+}
+
+p{
+font-family: juventus;
+font-size: 22px;
+}
+
+.HomeNavBar{
+    position: sticky;
+    top: 0%;
+    z-index: 300;
+    font-size: 20px;
+    font-family: juventus;
+    text-indent: 30px;
+    width: 100%;
+}
+.nav-item{
+    padding: 20px;
+    font-size: 25px;
+    
+}
+
+a{
+    
+  transition: background-color .5s;
+}
+
+a:hover{
+    opacity: 0.8;
+}
+
+
+
+.FirstFooter{
+text-align: center;
+}
+.FooterFont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .7px;
+    font-size: 1.4rem;
+    line-height: 2.14286;
+    color:#fff;
+    margin: 0;
+}
+
+.FooterFont2{
+    font-size: 1.2rem;
+    line-height: 1.66667;
+    color: #a6adbb;
+    transition: color .4s ease, background-color .4s ease;
+    text-decoration: none;
+    background-color: transparent;
+    list-style-type: none;
+    font-family: "Unica77-LL-TT",Helvetica,Arial,sans-serif;
+    -webkit-tap-highlight-color: rgba(21,30,45,0.2);
+    
+}
+
+  .navbar-brand{
+  
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #151e2d;
+    
+  }
+  .navbar{
+      background-color:  #151e2d;
+    
+  }
+  .nav-link{
+      color: #ff1541;
+      font-family: "Ubuntu";
+      text-decoration: none whitesmoke;
+  }
+
+ .navbar-toggler-icon{
+     background-color: yellowgreen;
+ }
+
+
+ .carousel{
+     width: 100%;
+     
+ }
+@font-face{
+    src: url(fonts/JuventusFans-Bold.woff.ttf);
+    font-family: juventus;
+}
+
+.dropdown-item{
+    font-size: 30px;
+}
